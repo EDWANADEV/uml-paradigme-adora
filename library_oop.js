@@ -11,7 +11,7 @@ class Book{
 }
 
 }
-console.log(Livre);
+console.log(Book);
 
 //class member
 
